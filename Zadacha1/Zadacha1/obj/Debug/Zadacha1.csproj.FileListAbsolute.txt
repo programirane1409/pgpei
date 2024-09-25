@@ -1,0 +1,10 @@
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe.config
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\bin\Debug\Zadacha1.pdb
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\obj\Debug\Zadacha1.Form1.resources
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\obj\Debug\Zadacha1.Properties.Resources.resources
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.GenerateResource.cache
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\obj\Debug\Zadacha1.exe
+C:\Users\1409-1\Desktop\11aGP\Zadacha1\Zadacha1\obj\Debug\Zadacha1.pdb
